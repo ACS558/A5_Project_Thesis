@@ -172,32 +172,6 @@ CareerLink implements a **three-tier architecture**:
 * **Input Validation** - Prevents injection attacks
 
 ---
-
-## Performance Metrics
-
-### System Performance
-* **Page Load Time:** 1.8 seconds (average)
-* **API Response Time:** 287ms (average)
-* **Job Search Speed:** 65ms (with 500+ postings)
-* **Notification Delivery:** 2.3 seconds (average)
-* **Bulk Operations:** 200 applications in 4.8 seconds
-
-### AI Accuracy
-* **ATS Scoring Accuracy:** 85% (vs manual evaluation)
-* **Auto-Shortlist Precision:** 90% (interview advancement rate)
-
-### User Adoption
-* **Students Registered:** 301
-* **Active Recruiters:** 15 companies
-* **Administrators:** 5
-* **Alumni Contributors:** 23
-* **Weekly Login Rate:** 92% (during recruitment season)
-
-### User Satisfaction
-* **Students:** 92% satisfaction
-* **Recruiters:** 96% satisfaction
-* **Administrators:** 100% satisfaction
-
 ---
 
 ## Installation & Setup
