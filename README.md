@@ -172,7 +172,6 @@ CareerLink implements a **three-tier architecture**:
 * **Input Validation** - Prevents injection attacks
 
 ---
----
 
 ## Installation & Setup
 
